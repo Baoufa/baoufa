@@ -7,12 +7,18 @@ Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (math
 
 ## Some of My Stack
 
+### Blockchain - EVM:
+* [Solidity][Solidity-url]
+* [Ethers][Ethers-url]
+* [HardHat][HardHat-url]
+* [Chainlink][Chainlink-url]
+
 ### Frontend: 
 * [Next.js][Next-url]
 * [React.js][React-url]
 * [SASS](https://sass-lang.com/) 
 * [Bootstrap][Bootstrap-url]
-* [Tailwind)(https://tailwindcss.com/)
+* [Tailwind](https://tailwindcss.com/)
 
 ### Backend: 
 * [Node.js](https://nodejs.org/en/)
@@ -22,11 +28,6 @@ Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (math
 * [GraphQL](https://graphql.org/)
 * [My-SQL](https://www.mysql.com/)
 
-### Blockchain - EVM:
-* [Solidity][Solidity-url]
-* [Ethers][Ethers-url]
-* [HardHat][HardHat-url]
-* [Chainlink][Chainlink-url]
 
 <!--
 **Baoufa/baoufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
