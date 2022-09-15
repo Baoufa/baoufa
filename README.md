@@ -2,7 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (mathematics - statistics) and Master in Political Science and International Relations. 3+ years of experience in web development and Blockchains. 7+ years of experience in humanitarian project management in mergency context(Sahel, South-East Asia, Europe...etc). 4+ years in public affairs. Experience in large companies, international organizations and as a freelancer.
+Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (mathematics - statistics) and Master in Political Science and International Relations. 4+ years of experience in web development and Blockchains. 7+ years of experience in humanitarian project management in mergency context(Sahel, South-East Asia, Europe...etc). 4+ years in public affairs. Experience in large companies, international organizations and as a freelancer.
 
 
 ## Some of My Stack
