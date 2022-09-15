@@ -1,21 +1,20 @@
 # Fullstack Javascript & Solidity Developper 👋
 
-Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (mathematics - statistics) and Master in Political Science and International Relations. 3+ years of experience in web development and Blockchains. 7+ years of experience in humanitarian project management in mergency context(Sahel, South-East Asia, Europe...etc). 4+ years in public affairs. Experience in large companies, international organizations and as a freelancer.
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## 📫 How to reach me: 
-* [![LinkedIn][linkedin-shield]][linkedin-url]
+Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (mathematics - statistics) and Master in Political Science and International Relations. 3+ years of experience in web development and Blockchains. 7+ years of experience in humanitarian project management in mergency context(Sahel, South-East Asia, Europe...etc). 4+ years in public affairs. Experience in large companies, international organizations and as a freelancer.
 
 
 ## Some of My Stack
 
+### Frontend: 
+* [Next.js][Next-url]
+* [React.js][React-url]
+* [SASS](https://sass-lang.com/) 
+* [Bootstrap][Bootstrap-url]
+* [Tailwind)(https://tailwindcss.com/)
 
-Frontend: 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-
-Backend: 
+### Backend: 
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
@@ -23,8 +22,7 @@ Backend:
 * [GraphQL](https://graphql.org/)
 * [My-SQL](https://www.mysql.com/)
 
-
-Blockchain:
+### Blockchain - EVM:
 * [Solidity][Solidity-url]
 * [Ethers][Ethers-url]
 * [HardHat][HardHat-url]
