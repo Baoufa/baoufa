@@ -1,4 +1,4 @@
-# Fullstack Javascript & Solidity Developper 👋
+# Fullstack Typescript & Solidity Developper 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
