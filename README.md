@@ -1,4 +1,4 @@
-# Fullstack Typescript & Solidity Developper 👋
+# Fullstack Typescript & Solidity Developper 👋 (Learning RUST)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -9,16 +9,16 @@ Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (math
 
 ### Blockchain - EVM:
 * [Solidity][Solidity-url]
+* [Foundry] [foundry-url]
+* [Viem][viem-url]
 * [Ethers][Ethers-url]
-* [HardHat][HardHat-url]
-* [Chainlink][Chainlink-url]
 
 ### Frontend: 
 * [Next.js][Next-url]
 * [React.js][React-url]
 * [SASS](https://sass-lang.com/) 
-* [Bootstrap][Bootstrap-url]
 * [Tailwind](https://tailwindcss.com/)
+* [Bootstrap][Bootstrap-url]
 
 ### Backend: 
 * [Node.js](https://nodejs.org/en/)
@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[viem-url] https://viem.sh/
+[foundry-url] https://book.getfoundry.sh/
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
