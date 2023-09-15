@@ -9,7 +9,7 @@ Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (math
 
 ### Blockchain - EVM:
 * [Solidity][Solidity-url]
-* [Foundry] [foundry-url]
+* [Foundry][foundry-url]
 * [Viem][viem-url]
 * [Ethers][Ethers-url]
 
