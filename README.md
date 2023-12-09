@@ -5,29 +5,6 @@
 Developer since 2017 passionate about Web 3 and BUILD. Degree in Economics (mathematics - statistics) and Master in Political Science and International Relations. 4+ years of experience in web development and Blockchains. 7+ years of experience in humanitarian project management in emergency context(Sahel, South-East Asia, Europe...etc). 4+ years in public affairs. Experience in large companies, international organizations and as a freelancer.
 
 
-## Some of My Stack
-
-### Blockchain - EVM:
-* [Solidity][Solidity-url]
-* [Foundry](https://book.getfoundry.sh)
-* [Viem - Wagmi][viem-url]
-* [Ethers][Ethers-url]
-
-### Frontend: 
-* [Next.js][Next-url]
-* [React.js][React-url]
-* [SASS](https://sass-lang.com/) 
-* [Tailwind](https://tailwindcss.com/)
-
-### Backend: 
-* [Node.js](https://nodejs.org/en/)
-* [Express.js](https://expressjs.com/)
-* [MongoDB](https://www.mongodb.com/)
-* [Mongoose](https://mongoosejs.com/)
-* [GraphQL](https://graphql.org/)
-* [My-SQL](https://www.mysql.com/)
-
-
 <!--
 **Baoufa/baoufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
